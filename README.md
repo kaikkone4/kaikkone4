@@ -30,7 +30,7 @@ Currently, I specialize in architecting scalable full-stack applications and int
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### ⚡ Featured Engineering
-- **Complex System Architecture:** Engineered secure custom IAM flows (Keycloak) and bulletproof i18n routing in a decoupled Next.js/NestJS microservice environment for real-world SaaS products like KotoApp.io and QRoute.
+- **Complex System Architecture:** Engineered secure custom IAM flows (Keycloak) and bulletproof i18n routing in a decoupled Next.js/NestJS microservice environment for real-world SaaS products like KotoApp.io and QRLeap.
 
 📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/janne-kaikkonen-998099182/) | [IoTera Projektit](https://www.iotera.fi/projektit)
 
