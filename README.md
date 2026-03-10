@@ -32,7 +32,7 @@ Currently, I specialize in architecting scalable full-stack applications and int
 ### ⚡ Featured Engineering
 - **Complex System Architecture:** Engineered secure custom IAM flows (Keycloak) and bulletproof i18n routing in a decoupled Next.js/NestJS microservice environment for real-world SaaS products like KotoApp.io and QRLeap.
 
-📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/janne-kaikkonen-998099182/) | [IoTera Projektit](https://www.iotera.fi/projektit)
+📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/janne-kaikkonen-998099182/) | [IoTera Projects](https://www.iotera.fi/en/projects)
 
 
 <!--
