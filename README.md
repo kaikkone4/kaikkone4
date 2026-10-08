@@ -1,6 +1,6 @@
 # Janne Kaikkonen – Software developer, Tampere, Finland
 
-B.Eng. in ICT (LAB University of Applied Sciences, 2026). I previously worked as an electrician and was co-founder and CEO of an electrical contracting company specializing in smart home systems. I now build web applications through my own company, IoTera Oy.
+B.Eng. in ICT (LAB University of Applied Sciences, 2026). Earlier roles: electrician, sales manager, and co-founder and CEO of an electrical contracting company specializing in smart home systems. I now build web applications through my own company, IoTera Oy.
 
 I use generative AI tools daily in development. Every change goes through testing and code review.
 
